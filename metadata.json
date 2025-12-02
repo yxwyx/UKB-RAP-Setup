@@ -1,0 +1,5 @@
+{
+  "name": "UKB-RAP R-Setup Gen",
+  "description": "A smart generator for UK Biobank Research Analysis Platform (UKB-RAP) R environments. It uses Gemini to determine necessary system dependencies and generates setup scripts, install files, and documentation for your GitHub repository.",
+  "requestFramePermissions": []
+}
